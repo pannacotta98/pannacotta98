@@ -4,8 +4,10 @@ I’m pursuing a masters degree in Media Technology and Engineering at Linköpin
 
 I have compiled a small portfolio of a few of my projects, available [here](https://pannacotta98.github.io/).
 
-## Finished Courses
-Year 4:
+<details>
+  <summary>List of courses i have taken</summary>
+  
+### Year 4
 - Information Visualization &mdash; TNM048
 - Audio and Image Compression &mdash; TSBK35
 - Advanced Image Processing &mdash; TNM034
@@ -14,7 +16,7 @@ Year 4:
 - Sound Technology &mdash; TNM103
 - Advanced Global Illumination and Rendering &mdash; TNCG15
 
-Year 3:
+### Year 3
 - Data Structures &mdash; TND004
 - Media Technology &mdash; Bachelor Project &mdash; TNM094
 - Modelling Project &mdash; TNM085
@@ -24,7 +26,7 @@ Year 3:
 - Practical Data Visualization and Virtual Reality &mdash; TNM093
 - Automatic Control &mdash; TNG028
 
-Year 2:
+### Year 2
 - Graphic Arts &mdash; TNM059
 - 3D Computer Graphics &mdash; TNM061
 - Applied Transform Theory &mdash; TNG032
@@ -36,7 +38,7 @@ Year 2:
 - Mechanics and Wave Physics &mdash; TNE043
 - Communication and User Interfaces &mdash; TNM040
 
-Year 1:
+### Year 1
 - Calculus I &mdash; TNA003
 - Calculus II &mdash; TNA004
 - Applied Mathematics in Science and Technology &mdash; TNA005
@@ -47,3 +49,4 @@ Year 1:
 - Programming &mdash; TND012
 - Digital Media &mdash; TNM088
 - Electronic Publishing &mdash; TNMK30
+</details>
