@@ -8,6 +8,9 @@ I have compiled a small portfolio of a few of my projects, available [here](http
   <summary>List of courses i have taken</summary>
   
 ### Year 4
+- Modeling and Animation &mdash; TNM079
+- Artificial Intelligence &mdash; Principles and Techniques &mdash; TNM096
+- Advanced Visual Data Analysis &mdash; TNM098
 - Information Visualization &mdash; TNM048
 - Audio and Image Compression &mdash; TSBK35
 - Advanced Image Processing &mdash; TNM034
