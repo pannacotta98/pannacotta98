@@ -7,6 +7,13 @@ I have compiled a small portfolio of a few of my projects, available [here](http
 <details>
   <summary>List of courses i have taken</summary>
   
+### Year 5
+- Procedural Methods for Images &mdash; TNM084
+- Scientific Method &mdash; TNM107
+- Artificial Intelligence for Interactive Media &mdash; TNM095
+- Scientific Visualization &mdash; TNM067
+- Imaging Technology &mdash; TNM089
+  
 ### Year 4
 - Modeling and Animation &mdash; TNM079
 - Artificial Intelligence &mdash; Principles and Techniques &mdash; TNM096
