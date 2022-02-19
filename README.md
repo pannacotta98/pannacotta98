@@ -1,6 +1,7 @@
 # Hello! I’m Algot 👾
+**Soon MSc in Media Technology and Engineering**
 
-I’m pursuing a masters degree in Media Technology and Engineering at Linköping University.
+I’m currently writing my master thesis in artifact-free color interpolation at MindRoad.
 
 I have compiled a small portfolio of a few of my projects, available [here](https://pannacotta98.github.io/).
 
