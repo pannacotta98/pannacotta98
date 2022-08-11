@@ -1,4 +1,6 @@
 # Hello! I’m Algot 👾
+
+<!--
 **Soon MSc in Media Technology and Engineering**
 
 I’m currently writing my master thesis in artifact-free color interpolation at MindRoad.
@@ -61,3 +63,4 @@ I have compiled a small portfolio of a few of my projects, available [here](http
 - Digital Media &mdash; TNM088
 - Electronic Publishing &mdash; TNMK30
 </details>
+-->
